@@ -9,19 +9,16 @@
 	- *Committed*, when the files have been pushed to the GitHub repository and the local and remote versions match.
 
 ##### how can you reset/cancel if you have already run git add . command
-	- `git add .` can be undone via `git reset` or `git reset FILE_NAME`.
+- `git add .` can be undone via `git reset` or `git reset FILE_NAME`.
 
 ##### what is a git staging area
-	- 
-
-##### workflow and the stages
-	- 
+- The staging area is the time between the addition of the work done in the working directory to the local git version, and the final pushing of the changes to the remote repository.
 
 ##### git merge and merge conflicts 
-	- 
+- 
 
 ##### best practice to resolve git merge conflicts
-	- 
+- 
 
 ##### research around best practices of git and git-hub
-	- 
+- 
